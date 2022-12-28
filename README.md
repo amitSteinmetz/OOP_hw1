@@ -26,6 +26,6 @@ costumers - **Members** - that will be updated when the state changes.
 
 In order to find the files that we created ourselves, go to:
 
-**GroupAdmin, ConcreteMember**:  branch Master -> src -> main
+**GroupAdmin, ConcreteMember**:  branch master -> src -> main
 
 **Tests, GroupAdminTest, ConcreteMemberTest**:  branch master -> src -> test
