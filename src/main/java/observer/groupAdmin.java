@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 
 /**
- * A class that implements Sender interface, that describe the update's sender,
+ * A class that implements "Sender" interface, that describe the update's sender,
  * or in other words - Observable.
  *
  *  @version 1.0 Dec 2022
